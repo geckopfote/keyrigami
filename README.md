@@ -9,3 +9,19 @@ Keycaps made from paper
 3. Where to start
 4. Credits
 5. Links
+
+
+
+
+
+
+
+
+
+
+
+---
+
+[1]: https://en.wikipedia.org/wiki/kirigami
+[2]: https://www.reddit.com/r/MechanicalKeyboards/comments/7fm4t6/origamikeyboard/
+[3]: https://www.reddit.com/r/MechanicalKeyboards/comments/7fm4t6/origamikeyboard/dqdek10/
