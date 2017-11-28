@@ -1,1 +1,1 @@
-This folder contains the different CAD files. I'm using QCad (3.17.3) for the paperkeycaps and FreeCAD (0.17) for the 3D printed parts.
+This folder contains the different CAD files. I'm using QCad (3.17.3) for the paperkeycaps and FreeCAD (0.17) for the 3D printed parts. Both of them are OpenSource and cross platform. The .dxf-files can also be opened with Inkscape, but it's neither tested nor is it ideal, because the importprocess isn't perfect.
