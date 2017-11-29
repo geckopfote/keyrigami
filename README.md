@@ -17,10 +17,11 @@ Keyrigami is a neologism out of Key(caps) and [Kirigami][1], a variation of Orig
 ### 2. Before you start 
 You will need only a few things to build your own set of paperkeycaps. First of all you need paper. :-) Paper with a weight of 120g-300g should work. Next you need a printer to print the templates of the keycaps and you need also a 3D printer to 3D print the stems of the keycaps. Or you should at least know someone who have a 3D printer and owes you a favor. ;-) Furthermore you will need some ordinary office stuff, like glue, scissors and so on. In the wiki, I'll go into details. 
 
+### 3. Where to start
 
+### 4. Credits
 
-
-
+### 5. Links
 
 
 
