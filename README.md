@@ -11,7 +11,7 @@ Keycaps made from paper
 5. Links
 
 
-
+1. Keyrigami is a neologism out of Key(caps) and [Kirigami][1], a variation of Origami. The word keyrigami was first mentioned from u/impudentmortal at a [Reddit thread][2], where I posted a picture of my [Origamikeyboard][3].
 
 
 
@@ -23,7 +23,7 @@ Keycaps made from paper
 ---
 
 [1]: https://en.wikipedia.org/wiki/kirigami
-[2]: https://www.reddit.com/r/MechanicalKeyboards/comments/7fm4t6/origamikeyboard/
-[3]: https://www.reddit.com/r/MechanicalKeyboards/comments/7fm4t6/origamikeyboard/dqdek10/
+[2]: https://www.reddit.com/r/MechanicalKeyboards/comments/7fm4t6/origamikeyboard/dqdek10/
+[3]: https://www.reddit.com/r/MechanicalKeyboards/comments/7fm4t6/origamikeyboard/
 [4]: https://olkb.com
 [5]: http://qmk.fm/
