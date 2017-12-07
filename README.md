@@ -23,7 +23,8 @@ Have a look at the [dsa_family/cad](../master/dsa_family/cad) folder, there are 
 ### 4. Credits
 
 ### 5. Links
-
+- OLKB Keyboards https://olkb.com
+- QMK Firmware http://qmk.fm/
 
 
 ---
